@@ -6,7 +6,7 @@
       <div class="col col-md-offset-3 col-md-6">
         <nav class="panel panel-default">
           <div class="panel-heading">
-            てすとまずはフォルダを作成しましょう
+            てすとおおおまずはフォルダを作成しましょう
           </div>
           <div class="panel-body">
             <div class="text-center">
